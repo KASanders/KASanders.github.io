@@ -5,10 +5,9 @@ permalink:           pretty
 
 # Setup
 title:               Kyle Sanders
-tagline:             Visiting Assistant Professor, Sewanee
-url:                 https://KASanders.github.io
+url:                 https://kasanders.github.io
 paginate:            1
-baseurl:             "https://KASanders.github.io"
+baseurl:             "https://kasanders.github.io"
 
 # Assets
 #
@@ -34,7 +33,7 @@ plugins:
 
 # custom pages list
 pages_list:
-    CV: 'https://KASanders.github.io/cv'
+    About: 'https://KASanders.github.io/about'
     Blog: 'https://KASanders.github.io/blog'
     Projects: 'https://KASanders.github.io/projects'
     Courses: 'https://KASanders.github.io/courses'
