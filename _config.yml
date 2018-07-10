@@ -1,0 +1,41 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Kyle Sanders
+tagline:             Visiting Assistant Professor, Sewanee
+url:                 https://KASanders.github.io
+paginate:            1
+baseurl:             "https://KASanders.github.io"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Kyle Sanders
+  url:               https://twitter.com/ohflanders
+  email:             kysanders89@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# custom pages list
+pages_list:
+    CV: 'https://KASanders.github.io/cv'
+    Blog: 'https://KASanders.github.io/blog'
+    Projects: 'https://KASanders.github.io/projects'
+    Courses: 'https://KASanders.github.io/courses'
+    Contact: 'https://KASanders.github.io/contact'
