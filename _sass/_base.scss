@@ -1,5 +1,11 @@
 // Body resets
-//
+//Google fonts?
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Alegreya+SC');
+
+//Font Variables
+$alegreya: 'Alegreya', serif;
+$alegreya-sc: 'Alegreya SC', serif;
+//default just in case: "Helvetica Neue", Helvetica, Arial, sans-serif;
 // Update the foundational and global aspects of the page.
 
 * {
@@ -15,7 +21,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: $alegreya;
   font-size: 16px;
   line-height: 1.5;
 
@@ -26,7 +32,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #fff9e5;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -35,6 +41,7 @@ body {
 a {
   color: #268bd2;
   text-decoration: none;
+  font-family: $alegreya-sc;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,

@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               Kyle Sanders
+title:               Kyle A. Sanders
 url:                 https://kasanders.github.io
 paginate:            1
-baseurl:             "https://kasanders.github.io"
+baseurl:             ""
 
 # Assets
 #
@@ -33,8 +33,8 @@ plugins:
 
 # custom pages list
 pages_list:
-    About: 'https://KASanders.github.io/about'
-    Blog: 'https://KASanders.github.io/blog'
-    Projects: 'https://KASanders.github.io/projects'
-    Courses: 'https://KASanders.github.io/courses'
-    Contact: 'https://KASanders.github.io/contact'
+    About: '/about'
+    Blog: '/blog'
+    Projects: '/projects'
+    Courses: '/courses'
+    Contact: '/contact'
