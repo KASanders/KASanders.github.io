@@ -4,5 +4,9 @@ title: Courses
 ---
 
 # Fall 2018
-* [BIBL 541- Introduction to New Testament Greek]
-* [BIBL 543 - Intermediate Koine Greek - Survey of Prose Genres]
+* Introductory Greek I
+* Survey of Greek Prose Genres
+
+# Spring 2019
+* Introductory Greek II
+* Praise Poetry from Pindar to Romanos

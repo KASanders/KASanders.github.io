@@ -1,10 +1,11 @@
 ---
 layout: page
+title: About
 ---
-
+![me](/images/about pic.JPG)
 
 # Research Interests
-Greek Poetry: Lyric, Tragedy; Riddles and Fables; Popular Literature; John Moschus; Digital Humanities
+<ul><li>Greek Poetry: Lyric, Tragedy</li> <li>Riddles and Fables; Popular Literature</li> <li>Digital approaches to scholarship and pedagogy</li></ul>
 
 # Education and Current Research
 I received my Ph.D. in Classics from the University of Texas at Austin in May 2018. My dissertation, "Pindar and the Enigmatic Tradition," considers questions such as:
@@ -21,7 +22,7 @@ What cow is white, red, and black?
 
 I'm currently revising the project into a monograph. If you're into Pindar, riddles, or anything remotely similar, drop me a line.
 
-I'm also working on a digital project: a critical edition of John Moschus' Spiritual Meadow. This late Greek (6-7th c. CE) collection of tall tales and entertaining anecdotes was gathered during John's extensive travels around the Levant, Egypt, Greece, and Rome, with stories including:
+I'm also working on a digital project: a critical edition of John Moschus' <em>Spiritual Meadow</em>. This late Greek (6-7th c. CE) collection of tall tales and entertaining anecdotes was gathered during John's extensive travels around the Levant, Egypt, Greece, and Rome, with stories including:
 <ul><li>
 Mimes mutilated by the Theotokos
 </li>
@@ -39,11 +40,11 @@ Herodotean fish
 </li>
 </ul>
 
-Using Tesseract OCR, I have digitized all 219 of these stories (c. 60k words). Please contact me if you would like the Greek text. It makes for great supplemental reading for intermediate students!
+Using [Tesseract OCR](https://ancientgreekocr.org/), I have digitized all 219 of these stories (c. 60k words). Please contact me if you would like the Greek text. It makes for great supplemental reading for intermediate students!
 
 I am working to encode the text to the latest TEI/ Epidoc standards. A further goal is to collate several manuscripts to produce an app crit, as well as the integration of mapping tools.
 
-Check out my full CV [here](/assets/CV_Sanders_web.pdf)
+Check out my full CV [here](/assets/CV_Sanders_web.pdf).
 
 # About
 I'm currently a Visiting Assistant Professor at the University of the South (Sewanee) in Sewanee, TN, where I live with my wife Hannah and my dog Hugo.

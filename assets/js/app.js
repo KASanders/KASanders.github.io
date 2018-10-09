@@ -4,8 +4,8 @@ $(window).load(function() {
     animation: "fade",
     controlNav: false,
     directionNav: true,
-    slideshowSpeed: 5000,
-    animationSpeed: 600,
+    slideshowSpeed: 10000,
+    animationSpeed: 1000,
     touch: true
     });
 });
