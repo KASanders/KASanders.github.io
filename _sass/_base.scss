@@ -57,8 +57,22 @@ a {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 0 0rem;
   border-radius: 5px;
+}
+
+img[src*="thumbnail"] {
+  width: 50%;
+  height: 50%;
+
+
+}
+
+img[src*="hugo"] {
+  width: 25%;
+  height: 25%;
+
+
 }
 
 table {

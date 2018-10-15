@@ -5,4 +5,4 @@ title: Current Projects
 
 ## A digital edition of John Moschus' <em>Pratum Spirituale</em>
 
-I'm currently encoding the text to meet TEI XML standards and hope to make it available soon!
+The project is currently in progress and can be viewed [here](http://pratum-spirituale.herokuapp.com/). If you'd like to contribute, please submit a pull request on [github](https://github.com/KASanders/ps).
