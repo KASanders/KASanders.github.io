@@ -2,6 +2,12 @@
 layout: page
 title: About
 ---
+![me](/images/about pic.JPG#thumbnail)
+
+
+I'm currently a Visiting Assistant Professor at the University of the South (Sewanee) in Sewanee, TN, where I live with my wife Hannah and my dog Hugo.
+I graduated from Davidson College with a BA in Classics in 2011. I'm originally from central Florida. My hobbies include cultivating bonsai, baking sourdough bread, and trail running.
+
 # Research Interests
 <ul><li>Greek Poetry: Lyric, Tragedy</li> <li>Riddles and Fables; Popular Literature</li> <li>Digital approaches to scholarship and pedagogy</li></ul>
 
@@ -20,32 +26,10 @@ What cow is white, red, and black?
 
 I'm currently revising the project into a monograph. If you're into Pindar, riddles, or anything remotely similar, drop me a line.
 
-I'm also working on a digital project: a critical edition of John Moschus' <em>Spiritual Meadow</em>. This late Greek (6-7th c. CE) collection of tall tales and entertaining anecdotes was gathered during John's extensive travels around the Levant, Egypt, Greece, and Rome, with stories including:
-<ul><li>
-Mimes mutilated by the Theotokos
-</li>
-<li>
-Pillar saints incinerated by lightning
-</li>
-<li>
-Talking corpses with decent advice
-</li>
-<li>
-Heartwarming lions
-</li>
-<li>
-Herodotean fish
-</li>
-</ul>
-
-Using [Tesseract OCR](https://ancientgreekocr.org/), I have digitized all 219 of these stories (c. 60k words). See [Projects](/projects/)
+I'm also working on a digital project: a critical edition of John Moschus' <em>Spiritual Meadow</em>. See [Projects](/projects/).
 
 Check out my full CV [here](/assets/CV_Sanders_web.pdf).
 
-![me](/images/about pic.JPG#thumbnail)
 
-# About
-I'm currently a Visiting Assistant Professor at the University of the South (Sewanee) in Sewanee, TN, where I live with my wife Hannah and my dog Hugo.
-I graduated from Davidson College with a BA in Classics in 2011. I'm originally from central Florida. My hobbies include cultivating bonsai, baking sourdough bread, and trail running.
 
 ![Hugo](/images/hugo.JPG#hugo)
