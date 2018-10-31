@@ -35,7 +35,7 @@
   list-style: none;
   display: inline-block!important;
  *display: inline!important;
- float: none!important;
+  float: none!important;
 }
 .flex-pauseplay span {
   text-transform: capitalize;
@@ -51,7 +51,7 @@
 }
 .flexslider .slides > li {
   display: none;
-  -webkit-backface-visibility: hidden;
+  /* webkit-backface-visibility: hidden; */
 }
 .flexslider .slides img {
   display: block;

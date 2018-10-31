@@ -4,7 +4,7 @@ title: "Scary Mary"
 ---
 ![Theotokos](/images/posts/theotokos.jpg#row)![vincentprice](/images/posts/vincent-price.jpg#row)
 
-Dear reader, on this All Hallows Eve, I'd like to call your attention to two utterly spine-tingling Greek horror stories collected by John Moschus in his _Spiritual Meadow_. You can view the original Greek text for each of these
+Dear reader, on this All Hallows' Eve, I'd like to call your attention to two utterly spine-tingling Greek horror stories collected by John Moschus in his _Spiritual Meadow_. You can view the original Greek text for each of these
 on my [project site](http://pratum-spirituale.herokuapp.com). My own rough translations follow below.
 
 
