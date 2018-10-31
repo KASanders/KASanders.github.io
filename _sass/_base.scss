@@ -78,6 +78,16 @@ img[src*="hugo"] {
 
 }
 
+img[src*="row"] {
+  // width: 50%;
+  height: 20rem;
+  display:inline-table;
+  padding: 10px;
+  // margin-left: auto;
+  // margin-right: auto;
+
+}
+
 
 
 table {

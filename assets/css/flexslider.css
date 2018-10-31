@@ -79,6 +79,8 @@ html[xmlns] .flexslider .slides {
  .slides {
      width: 100%!important;
      text-align: center;
+     padding:0;
+     margin:0;
 }
   .slides li  {
        white-space: initial;
